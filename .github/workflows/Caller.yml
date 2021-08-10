@@ -18,5 +18,5 @@ jobs:
       - name: Run a one-line script
         run: echo Hello, world!
           
-  cmw-refer1:
+  refer1:
     uses: .github/workflows/cmw-refer1.yml@main
