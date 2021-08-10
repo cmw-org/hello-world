@@ -19,4 +19,4 @@ jobs:
         run: echo Hello, world!
           
   refer1:
-    uses: .github/workflows/cmw-refer1.yml@main
+    uses: .github/workflows/refer1.yml@main
